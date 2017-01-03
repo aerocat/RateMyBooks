@@ -11,6 +11,8 @@ One night, I decided I wanted to start reading a new book. However, I quickly re
 
 So, I spent the next 2 hours writing this script. I hadn't used Python in a while so I kept googling stuff like proper syntax or basic functions :P, nonetheless I was pretty proud when I finished it.
 
+A cool thing about using the GoodReads API is that most of the time it will recognize the book even with an incomplete title. In addition, since the API provides all sort of data associated with the book, the script outputs other interesting info like author and publication year.
+
 ## How to use it:
 0. Requirements:
 If you don't have them already, you need to install the two Python modules BeautifulSoup and lxml. Using pip:
