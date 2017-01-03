@@ -21,15 +21,16 @@ If you don't have them already, you need to install the two Python modules Beaut
 4. Simply run the script, it will ask you for the name of the file of your list.
 
 ## Example:
-<code> $ python rate_my_books.py <br/>
-Enter filename of the list of books: your_list.txt <br/>
-1 books processed out of 3. (1 book/sec) <br/>
-2 books processed out of 3. (1 book/sec) <br/>
-3 books processed out of 3. (1 book/sec) <br/>
-Here is the resulting ranking based on your book list! <br/> <br/>
+<pre>
+<code> $ python rate_my_books.py 
+Enter filename of the list of books: your_list.txt
+1 books processed out of 3. (1 book/sec)
+2 books processed out of 3. (1 book/sec)
+3 books processed out of 3. (1 book/sec)
+Here is the resulting ranking based on your book list!
 
-4.10	War and Peace, Leo Tolstoy (1865) <br/>
-3.80	A Tale of Two Cities, Charles Dickens (1859) <br/>
+4.10	War and Peace, Leo Tolstoy (1865)
+3.80	A Tale of Two Cities, Charles Dickens (1859)
 3.75	Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values, Robert M. Pirsig (1974)
-
 </code>
+</pre>
